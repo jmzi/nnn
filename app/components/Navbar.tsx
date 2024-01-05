@@ -9,7 +9,7 @@ export default function Navbar() {
                     <Link href="/" className="text-white/90 no-underline hover:text-white">Jmz</Link>
                 </h1>
                 <div className="flex flex-row justify-center sm:justify-evenly align-middle gap-4 text-white text-4xl lg:text-5xl">
-                    <Link className="text-white/90 hover:text-white" href="https://www.youtube.com/@DaveGrayTeachesCode">
+                    {/* <Link className="text-white/90 hover:text-white" href="https://www.youtube.com/@DaveGrayTeachesCode">
                         <FaYoutube />
                     </Link>
                     <Link className="text-white/90 hover:text-white" href="https://courses.davegray.codes/">
@@ -20,7 +20,7 @@ export default function Navbar() {
                     </Link>
                     <Link className="text-white/90 hover:text-white" href="https://twitter.com/yesdavidgray">
                         <FaTwitter />
-                    </Link>
+                    </Link> */}
                 </div>
             </div>
         </nav>
